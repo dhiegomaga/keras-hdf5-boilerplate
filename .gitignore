@@ -1,0 +1,5 @@
+*.h5
+downloader-folders.py
+Resources/
+*.jpg
+state.pickle
